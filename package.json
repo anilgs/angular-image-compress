@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oukan/angular-image-compress.git"
+    "url": "git+https://github.com/anilgs/angular-image-compress.git"
   },
   "keywords": [
     "angularjs",
